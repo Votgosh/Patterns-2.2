@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/42fdmhrre1eqp7pa?svg=true)](https://ci.appveyor.com/project/Votgosh/patterns-2-2)
